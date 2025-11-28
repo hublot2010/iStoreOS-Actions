@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/github/forks/Kwonelee/iStoreOS-Actions.svg?style=for-the-badge&color=ff69b4"/>
   <img src="https://img.shields.io/github/license/Kwonelee/iStoreOS-Actions.svg?style=for-the-badge&color=blueviolet"/>
 
-  [![](https://img.shields.io/badge/-目录:-696969.svg)](#readme) 
-  [![](https://img.shields.io/badge/-项目介绍-FFFFFF.svg)](#项目介绍) 
+  [![](https://img.shields.io/badge/-目录:-696969.svg)](#readme)
+  [![](https://img.shields.io/badge/-项目介绍-FFFFFF.svg)](#项目介绍)
   [![](https://img.shields.io/badge/-第三方插件-FFFFFF.svg)](#第三方插件)
   [![](https://img.shields.io/badge/-支持设备-FFFFFF.svg)](#支持设备)
   [![](https://img.shields.io/badge/-项目截图-FFFFFF.svg)](#项目截图)
@@ -18,14 +18,14 @@
 
 ---
 
-## 🤔 项目介绍 [![](https://img.shields.io/badge/-项目介绍-FFFFFF.svg)](#项目介绍) {#project-intro}
+## 🤔 项目介绍 [![](https://img.shields.io/badge/-项目介绍-FFFFFF.svg)](#项目介绍)
 **iStoreOS** 目标是提供一个人人会用的路由兼轻 **NAS 系统** ，不管是作为路由还是 NAS，你都有相似的操作体验。
 
 > 😂如果您对当前项目有抵触心理，也欢迎您使用右侧项目😂👉👉👉[iStoreOS-Native](https://github.com/Kwonelee/iStoreOS-Native)
 
 > 使用此仓库必须设置机密token，Actions云构建固件时需要用到，通常在仓库设置里面。机密键名为 `GH_TOKEN`（严禁在仓库可视代码中填写，否则后果自负）
 
-## 😅 第三方插件 [![](https://img.shields.io/badge/-第三方插件-FFFFFF.svg)](#第三方插件) {#project-intro}
+## 😅 第三方插件 [![](https://img.shields.io/badge/-第三方插件-FFFFFF.svg)](#第三方插件)
 | 插件                     | 状态 | 插件                     | 状态  | 插件                   | 状态   |
 |:------------------------:|:----:|:------------------------:|:-----:|:------------------------:|:----:|
 | ramfree释放内存          | ✅   | openlist2                | ✅    | FileBrowser文件浏览器    | ⏳    |
@@ -34,7 +34,7 @@
 
 ✅ 支持 ； ⏳ 计划中 ； ❌ 不支持
 
-## 😊 支持设备 [![](https://img.shields.io/badge/-支持设备-FFFFFF.svg)](#支持设备) {#project-intro}
+## 😊 支持设备 [![](https://img.shields.io/badge/-支持设备-FFFFFF.svg)](#支持设备)
 | 芯片     | 设备 |
 |----------|------|
 | a311d    | Khadas-VIM3, WXY-OES |
