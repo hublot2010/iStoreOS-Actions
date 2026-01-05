@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       openwrt_board:
-        description: "1、请选择设备型号"
+        description: "nanopi-r5c"
         required: true
-        default: "s905d_s905x3_s912_s922x-ct2000"
+        default: "nanopi-r5c"
         type: choice
         options:
           - a311d-oes_s922x-oes-plus_wxy-oect
